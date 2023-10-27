@@ -14,4 +14,4 @@
 
 ---
 
-Ссылка на проект: https://cendreschaudes.github.io/HTMLAcademy__HTML2-Mishka/
+Ссылка на деплой: https://cendreschaudes.github.io/HTMLAcademy__HTML2-Mishka/
