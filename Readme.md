@@ -14,4 +14,4 @@
 
 ---
 
-Ссылка на деплой: https://cendreschaudes.github.io/Frontend__Mishka/
+Ссылка на деплой: https://cendreschaudes.github.io/LearningFrontend__Mishka/
